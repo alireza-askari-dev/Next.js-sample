@@ -1,0 +1,159 @@
+
+/* -------------==========-------------- (mrx) fonts (start) -------------==========-------------- */
+
+@font-face {
+  font-family: "example";
+  src: url("/assets/Fonts/example2.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* -------------==========-------------- (mrx) fonts (end) -------------==========-------------- */
+
+
+
+
+
+/* ----------------------------------- (mrx) section one styles (start) ----------------------------------- */
+
+.projectName{
+  color: rgb(0, 0, 0) ;
+}
+
+.main{
+  animation: gradientBG 15s ease infinite !important;
+  background-size: 400% 400% !important;
+  align-items: center;
+  margin: auto;
+  position: relative;
+  top: 200px;
+  width: 50%;
+  border-radius: 10px;
+  background: linear-gradient(-45deg, rgb(56 74 235), rgb(117 175 255), rgb(238, 238, 240), rgb(56 74 235));
+  padding: 50px 0px 50px;
+}
+
+.author{
+  font-size: 13px;
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+}
+
+.title {
+  text-align: center;
+  font-family: 'example';
+  color: white;
+}
+
+.description {
+  text-align: center;
+  font-family: 'example';
+  color: white;
+}
+
+.Link {
+  color: white;
+  margin-left: 5px;
+}
+
+.example {
+  background-color: white;
+  color: black;
+}
+
+/* ----------------------------------- (mrx) section one styles (end) ----------------------------------- */
+
+
+
+
+
+/* ----------------------------------- (mrx) section one styles ( start | Mobile Responsive ) ----------------------------------- */
+
+@media screen and (max-width: 600px) {
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+}
+
+/* ----------------------------------- (mrx) section one styles ( end | Mobile Responsive ) ----------------------------------- */
+
+
+
+
+
+/* ----------------------------------- (mrx) section two styles (start) ----------------------------------- */
+
+/* Card components (start) */
+
+.example {
+  background-color: white;
+  color: black;
+}
+
+.example {
+  background-color: white;
+  color: black;
+}
+
+/* ( end ) */
+
+/* Next Btn components (start) */
+
+.example {
+  background-color: white;
+  color: black;
+}
+
+/* ( end ) */
+
+/* ----------------------------------- (mrx) section two styles (end) ----------------------------------- */
+
+
+
+
+
+/* ----------------------------------- (mrx) section two styles ( start | Mobile Responsive ) ----------------------------------- */
+
+@media screen and (max-width: 600px) {
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+}
+
+/* ----------------------------------- (mrx) section two styles ( end | Mobile Responsive ) ----------------------------------- */

@@ -1,0 +1,85 @@
+
+/* -------------==========-------------- (mrx) fonts (start) -------------==========-------------- */
+
+@font-face {
+  font-family: "example";
+  src: url("/fonts/example.ttf");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* -------------==========-------------- (mrx) fonts (end) -------------==========-------------- */
+
+
+
+
+
+/* ----------------------------------- (mrx) components styles (start) ----------------------------------- */
+
+/* Main (start) */
+
+body {
+  /* background-color: #252525 !important; */
+}
+
+/* ( end ) */
+
+/* Card components (start) */
+
+.Card{
+  margin: 20px;
+  width: 300px;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.CardMain {
+  color: #3a4ceb;
+  width: 100%;
+  font-family: 'example';
+}
+/* ( end ) */
+
+/* Next Btn components (start) */
+
+.example {
+  background-color: white;
+  color: black;
+}
+
+/* ( end ) */
+
+/* ----------------------------------- (mrx) components styles (end) ----------------------------------- */
+
+
+
+
+
+/* ----------------------------------- (mrx) components styles ( start | Mobile Responsive ) ----------------------------------- */
+
+@media screen and (max-width: 600px) {
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+  .example {
+    background-color: white;
+    color: black;
+  }
+}
+
+/* ----------------------------------- (mrx) components styles ( end | Mobile Responsive ) ----------------------------------- */
