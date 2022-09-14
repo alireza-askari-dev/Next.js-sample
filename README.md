@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project 
 
-# Next.js sample Code
+# Next.js Source Code - mrx
 ## Getting Started
-- [Next.js-sample Documentation](https://docdro.id/SKP9a3h) - you can download the doc by this link. enjoy
+- [Source Code - mrx Documentation](https://docdro.id/SKP9a3h) - you can download the doc by this link. enjoy
 
 First, you can run the soure with:
 
